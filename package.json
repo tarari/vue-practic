@@ -1,0 +1,19 @@
+{
+  "name": "vue-practic",
+  "version": "0.1.0",
+  "description": "Scaffolding of a Vue project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tarari/vue-practic.git"
+  },
+  "author": "Toni Jiménez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarari/vue-practic/issues"
+  },
+  "homepage": "https://github.com/tarari/vue-practic#readme"
+}
