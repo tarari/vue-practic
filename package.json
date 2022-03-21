@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tarari/vue-practic/issues"
   },
-  "homepage": "https://github.com/tarari/vue-practic#readme"
+  "homepage": "https://github.com/tarari/vue-practic#readme",
+  "dependencies": {
+    "vue": "^3.2.31"
+  }
 }
